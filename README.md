@@ -38,7 +38,7 @@ During Week 2, I learned how to perform passive reconnaissance using theHarveste
 
  8. Evidence
 ### theHarvester - Baidu Search
-![Harvester Baidu](_1_screenshot.PNG)
+![Harvester Baidu](1_screenshot.PNG)
 
 ### theHarvester - All Sources Search
 ![Harvester All](2_screenshot.PNG)
