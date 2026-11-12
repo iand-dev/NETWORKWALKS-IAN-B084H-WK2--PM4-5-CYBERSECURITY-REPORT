@@ -37,4 +37,11 @@ I used Zenmap to scan my local network (192.168.137.0/24).
 During Week 2, I learned how to perform passive reconnaissance using theHarvester and active network scanning using Zenmap. TheHarvester showed me how much information is publicly available, while Zenmap helped me understand how to map a network and identify live devices. All activities were performed within the authorized scope of my own lab and Networkwalks' internship guidelines.
 
  8. Evidence
-*(We will add the files and screenshots below in the next steps).*
+### theHarvester - Baidu Search
+![Harvester Baidu](_1_screenshot.png)
+
+### theHarvester - All Sources Search
+![Harvester All](2_screenshot.png)
+
+### Zenmap Network Scan
+![Zenmap Scan](zenmap_scan_screenshot.png)
