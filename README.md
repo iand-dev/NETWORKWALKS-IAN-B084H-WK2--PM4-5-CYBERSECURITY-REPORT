@@ -46,5 +46,5 @@ During Week 2, I learned how to perform passive reconnaissance using theHarveste
 ### Zenmap Network Scan
 ![Zenmap Scan](zenmap_topology.pdf)
 
-###My-PenTest-Result
-![penTest-report](My-PenTest-Result WK2.docx)
+### My-penTest-Result
+![penTest-report](My-PenTest-Result-WK2.docx)
