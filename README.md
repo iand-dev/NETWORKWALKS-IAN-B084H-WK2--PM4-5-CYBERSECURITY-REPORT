@@ -44,4 +44,4 @@ During Week 2, I learned how to perform passive reconnaissance using theHarveste
 ![Harvester All](2_screenshot.PNG)
 
 ### Zenmap Network Scan
-![Zenmap Scan](zenmap_scan_screenshot.png)
+![Zenmap Scan](pythonw.exe)
